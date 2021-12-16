@@ -1,2 +1,11 @@
 # VR1210v-shell
-Accessing the undocumented TP-Link Archer VR1210v root shell
+
+Connect to the router via telnet  
+```
+$ telnet gateway 23
+# enter username and password (same as web login)
+```
+once the prompt is shown, type in `sh`  
+```
+TP-Link(conf)# sh
+```
