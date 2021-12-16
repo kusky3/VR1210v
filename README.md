@@ -1,4 +1,4 @@
-# VR1210v-shell
+# VR1210v
 
 Connect to the router via telnet  
 ```
