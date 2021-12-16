@@ -1,4 +1,6 @@
 # VR1210v
+ Accessing the undocumented TP-Link Archer VR1210v root shell 
+
 
 Connect to the router via telnet  
 ```
